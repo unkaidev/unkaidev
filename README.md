@@ -1,9 +1,9 @@
 ### WELCOME TO MY PAGE 👋
 My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Application Programming. I am interested in the following topics: Cross-platform game and applications.
 
-###📫 How to reach me:
+### 📫 How to reach me:
 ---
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)](https://www.linkedin.com/in/vankieuit)
+[![LinkedIn](https://media.licdn.com/dms/image/D4D12AQFSkkazpND0Tg/article-cover_image-shrink_720_1280/0/1696901179396?e=2147483647&v=beta&t=sy1mG4edVFhzPGGjPYoC7GZjph70EmjszvQYVjHV6PM)](https://www.linkedin.com/in/vankieuit)
 
 <!--
 **unkaidev/unkaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
