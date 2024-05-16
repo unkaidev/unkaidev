@@ -3,7 +3,7 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
 
 ### 📫 How to reach me:
 ---
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/24px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/vankieuit)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/24px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/vankieuit)[LinkedIn](https://www.linkedin.com/in/vankieuit)
 
 <!--
 **unkaidev/unkaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
