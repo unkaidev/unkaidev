@@ -12,9 +12,9 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=hi-school-frontend&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://unkaidev.github.io/fullstack-hischool-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=hi-school-frontend&theme=merko" />
 </a>
 
 <a href="https://unkaidev.github.io/mvc-hischool-introduction/">
