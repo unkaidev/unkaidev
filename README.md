@@ -26,13 +26,13 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=SimpleCalculatorJava&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://unkaidev.github.io/fullstack-removie-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-frontend&theme=onedark" />
 </a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
+<a href="https://unkaidev.github.io/fullstack-removie-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-backend&theme=cobalt" />
 </a>
 
 <a href="https://github.com/uvipen/AirGesture/">
