@@ -21,9 +21,9 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=mvc-hi-school&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/unkaidev/SimpleCalculatorJava/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=SimpleCalculatorJava&theme=dark" />
 </a>
 
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
