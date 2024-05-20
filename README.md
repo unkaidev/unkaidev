@@ -28,11 +28,11 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
 
 <a href="https://unkaidev.github.io/fullstack-removie-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-frontend&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-backend&theme=onedark" />
 </a>    
 <a href="https://unkaidev.github.io/fullstack-removie-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-backend&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-frontend&theme=cobalt" />
 </a>
 
 <a href="https://github.com/uvipen/AirGesture/">
