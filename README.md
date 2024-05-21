@@ -36,8 +36,17 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=removie-backend&theme=onedark" />
 </a>    
 
-<a href="https://github.com/unkaidev/react-basic-manage-user-app">
+<a href="https://github.com/unkaidev/react-basic-manage-user-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=react-basic-manage-user-app&theme=synthwave" />
-</a>    
+</a>
 
+<a href="https://github.com/unkaidev/jwt-frontend/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=jwt-frontend&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/unkaidev/jwt-nodejs-react/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=unkaidev&repo=jwt-nodejs-react&theme=dracula" />
+</a>  
