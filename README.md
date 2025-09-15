@@ -5,8 +5,6 @@ My name is Van Kieu. I am an BSc in Computer Science, majoring in Web and Applic
 ---
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/24px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/vankieuit)[LinkedIn](https://www.linkedin.com/in/vankieuit)
 
-![Unkai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=unkaidev&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 ---
 <a href="https://unkaidev.github.io/fullstack-hischool-introduction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
